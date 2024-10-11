@@ -1,1 +1,2 @@
 # LittleSchemerLearning
+This is a folder to store my work around the book "The Little Schemer" Fourth edition by Daniel P. Friedman and Matthias Felleisen. It's a bit of an old book about learning to code in a now pretty niche language called 'scheme'. It's a language used in other books like "Structure and Interpretation of Computer Programs".
